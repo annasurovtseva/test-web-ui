@@ -1,4 +1,4 @@
-package ru.surovtseva;
+package ru.surovtseva.hw1;
 
 /**
  * Hello world!

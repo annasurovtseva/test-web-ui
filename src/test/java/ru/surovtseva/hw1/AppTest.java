@@ -1,4 +1,4 @@
-package ru.surovtseva;
+package ru.surovtseva.hw1;
 
 
 import org.junit.jupiter.api.*;
